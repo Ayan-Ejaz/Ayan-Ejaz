@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ayan-Ejaz
 - 👀 I’m interested in Cyber Security / Backend development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ayan-ejaz/
 - 😄 Pronouns: he/him
 
