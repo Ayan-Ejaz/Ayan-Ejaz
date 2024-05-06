@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ayan-Ejaz
-- 👀 I’m interested in Cyber Security / Backend development
 - 📫 How to reach me https://www.linkedin.com/in/ayan-ejaz/
 
 <!---
