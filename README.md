@@ -10,25 +10,21 @@ I love diving deep into the inner workings of complex systems to understand how 
 Previously, I have worked on web application penetration testing, which has given me strong awareness of common security vulnerabilities in applications.
 Now, when I build backend systems, I consciously engineer them with security best practices in mind.
 
-In the past, I built several projects, but unfortunately lost them due to a laptop crash — back then I wasn’t familiar with Git for version control.
+In the past, I built several projects, but unfortunately lost them due to a laptop crash because back then I wasn’t familiar with Git for version control.
 Today, I am much more mindful of good development practices and constantly eager to learn, grow, and improve.
 
 🛠️ Technical Skills:
 
 Languages:
 
-JavaScript (Node.js)
-C
-C++
+JavaScript (Node.js), C, C++
 
 Backend:
-Node.js
-Express.js
+Node.js, Express.js
 
 Databases:
 
-MySQL
-MongoDB
+MySQL, MongoDB
 
 🚀 Goals:
 
