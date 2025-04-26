@@ -32,10 +32,8 @@ MongoDB
 
 🚀 Goals:
 
-Deepen my understanding of backend engineering and system design.
+1. Deepen my understanding of backend engineering and system design.
+2. Build more secure, scalable, and production-ready backend systems.
+3. Contribute to real-world projects and open-source initiatives.
 
-Build more secure, scalable, and production-ready backend systems.
-
-Contribute to real-world projects and open-source initiatives.
-
-Always open to learning new technologies and taking on new challenges!
+I'm always open to learning new technologies and taking on new challenges!
